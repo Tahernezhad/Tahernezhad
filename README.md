@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m **Fred**, a **Research Associate at the University of York** working on bio‑inspired engineering design using **Graph Neural Networks**, **Reinforcement Learning** and **Cartesian Genetic Programming**:contentReference[oaicite:0]{index=0}. I previously applied data analytics and machine learning to sustainable supply chains at the University of Lincoln:contentReference[oaicite:1]{index=1} and hold degrees in electronics, mechatronics, and computer science:contentReference[oaicite:2]{index=2}.
+I’m **Fred**, a **Research Associate at the [University of York](https://www.york.ac.uk/)** working on bio‑inspired engineering design using **Graph Neural Networks (GNN)**, **Reinforcement Learning (RL)** and **Cartesian Genetic Programming (CGP)**. I previously applied data analytics and machine learning to sustainable supply chains at the University of Lincoln:contentReference[oaicite:1]{index=1} and hold degrees in electronics, mechatronics, and computer science:contentReference[oaicite:2]{index=2}.
 
 <!--
 **Tahernezhad/Tahernezhad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
