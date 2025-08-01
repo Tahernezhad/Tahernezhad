@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m **Farajollah (Fred)**, an AI/ML enthusiast with a **PhD in Computer Science**. I currently work as a **Research Associate at the University of York**, developing bio‑inspired engineering design tools using **Graph Neural Networks (GNNs)**, **Reinforcement Learning (RL)** and **Cartesian Genetic Programming (CGP)** in [REID](https://riedesign.org/) program. 
+I’m **Farajollah (Fred)**, an AI/ML enthusiast with a **PhD in Computer Science**.  I currently work as a PostDoc Research Associate at the University of York, where I develop bio‑inspired engineering design tools using **Graph Neural Networks (GNNs)**, **Reinforcement Learning (RL)** and **Cartesian Genetic Programming (CGP)** as part of the [REID](https://riedesign.org/) project. 
 
 
 - 🔭 **Current projects:** bio‑inspired generative design with GNNs, RL, and CGP:contentReference[oaicite:3]{index=3}  
