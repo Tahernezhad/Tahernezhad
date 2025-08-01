@@ -1,6 +1,13 @@
 ## Hi there 👋
 
-I’m **Fred**, a **Research Associate at the [University of York](https://www.york.ac.uk/)** working on bio‑inspired engineering design using **Graph Neural Networks (GNN)**, **Reinforcement Learning (RL)** and **Cartesian Genetic Programming (CGP)**. I previously applied data analytics and machine learning to sustainable supply chains at the University of Lincoln:contentReference[oaicite:1]{index=1} and hold degrees in electronics, mechatronics, and computer science:contentReference[oaicite:2]{index=2}.
+I’m **Farajollah (Fred)**, an AI/ML enthusiast with a **PhD in Computer Science**. I currently work as a **Research Associate at the University of York**, developing bio‑inspired engineering design tools using **Graph Neural Networks (GNNs)**, **Reinforcement Learning (RL)** and **Cartesian Genetic Programming (CGP0** in [REID](https://riedesign.org/) program. 
+
+
+- 🔭 **Current projects:** bio‑inspired generative design with GNNs, RL, and CGP:contentReference[oaicite:3]{index=3}  
+- 🌱 **Learning:** advanced graph machine‑learning techniques and generative AI  
+- 👯 **Open to collaborate on:** multi‑objective optimization, reinforcement learning, generative design, supply‑chain analytics, and AI‑enabled sustainability  
+- 💬 **Ask me about:** evolutionary algorithms, RL, graph networks, brain‑machine interfaces, or data analytics  
+- 📫 **Reach me at:** [f.taher@york.ac.uk](mailto:f.taher@york.ac.uk)  
 
 <!--
 **Tahernezhad/Tahernezhad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
