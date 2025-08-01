@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Fred, and I’m an AI/ML enthusiast. I’m currently a Research Associate at the University of York, where my work on the Re‑Imagining Engineering Design (RIED) project uses Graph Neural Networks (GNNs), Reinforcement Learning and Cartesian Genetic Programming to create bio‑inspired generative design tools.
+
 <!--
 **Tahernezhad/Tahernezhad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
