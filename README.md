@@ -3,9 +3,9 @@
 I’m **Farajollah (Fred)**, an AI/ML enthusiast with a **PhD in Computer Science**.  I currently work as a PostDoc Research Associate at the University of York, where I develop bio‑inspired engineering design tools as part of the [REID](https://riedesign.org/) project. 
 
 
-- 🔭 **Current projects:** bio‑inspired generative design with GNNs, RL, and CGP:contentReference[oaicite:3]{index=3}  
+- 🔭 **Current projects:** bio‑inspired generative design with Graph Neural Networks (GNNs), Reinforcement Learningss (RL), and Cartesian Genetic Programming (CGP)
 - 🌱 **Learning:** advanced graph machine‑learning techniques and generative AI  
-- 👯 **Open to collaborate on:** multi‑objective optimization, reinforcement learning, generative design, supply‑chain analytics, and AI‑enabled sustainability  
+- 👯 **Open to collaborate on:** multi‑objective optimization, reinforcement learning, generative design, geo‑spatial data analytics, and ML predictive models  
 - 💬 **Ask me about:** evolutionary algorithms, RL, graph networks, brain‑machine interfaces, or data analytics  
 - 📫 **Reach me at:** [f.taher@york.ac.uk](mailto:f.taher@york.ac.uk)  
 
