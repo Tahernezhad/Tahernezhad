@@ -4,7 +4,7 @@ I’m **Farajollah (Fred)**, an AI/ML enthusiast with a **PhD in Computer Scienc
 
 
 - 🔭 **Current projects:** bio‑inspired generative design with Graph Neural Networks (GNNs), Reinforcement Learningss (RL), and Cartesian Genetic Programming (CGP)
-- 🌱 **Learning:** advanced graph machine‑learning and RL techniques   
+- 🌱 **Learning:** advanced GNN and RL techniques   
 - 👯 **Open to collaborate on:** multi‑objective optimization, reinforcement learning, generative design, geo‑spatial data analytics, and ML predictive models  
 - 📫 **Reach me at:** [f.taher@york.ac.uk](mailto:f.taher@york.ac.uk)  
 
