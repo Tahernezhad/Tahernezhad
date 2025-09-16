@@ -1,4 +1,4 @@
-## Farajollah (Fred) Tahernezhad-Javazm, PhD 👋
+## Farajollah (Fred) Tahernezhad-Javazm, PhD
 
 🤖 AI/ML Postdoctoral Researcher @ [University of York](https://www.york.ac.uk/), working on the [RIED](https://riedesign.org/) project.
 
