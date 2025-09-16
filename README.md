@@ -1,11 +1,11 @@
-## Hi there 👋
+## Farajollah (Fred) Tahernezhad-Javazm, PhD 👋
 
-I’m **Farajollah (Fred)**, an AI/ML enthusiast with a **PhD in Computer Science**.  I currently work as a PostDoc Research Associate at the University of York, where I develop bio‑inspired engineering design tools as part of the [RIED](https://riedesign.org/) project. 
+🤖 AI/ML Postdoctoral Researcher @ [University of York](https://www.york.ac.uk/), working on the [RIED](https://riedesign.org/) project.
 
 
 - 🔭 **Current projects:** bio‑inspired generative design with Graph Neural Networks (GNNs), Reinforcement Learningss (RL), and Cartesian Genetic Programming (CGP)
-- 🌱 **Learning:** advanced GNN and RL techniques   
-- 👯 **Open to collaborate on:** multi‑objective optimization, reinforcement learning, generative design, geo‑spatial data analytics, and ML predictive models  
+- ⚙️ **Core Skills:** data analytics , time-series analysis, deep and reinforcement learning , and multi/many-objective optimization.
+- 🌱 **Learning:** advanced GNN and RL techniques    
 - 📫 **Reach me:** [f.taher@york.ac.uk](mailto:f.taher@york.ac.uk)
 
 <h3 align="left">Languages and Tools:</h3>
