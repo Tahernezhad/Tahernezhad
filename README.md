@@ -11,7 +11,7 @@ AI Postdoctoral Researcher @ [University of York](https://www.york.ac.uk/), work
 ### Featured projects
 - [**Cartesian Genetic Programming for Truss Optimization**](https://github.com/Tahernezhad/Cartesian-Genetic-Programming-for-Truss-Optimization) — CGP for 2D structural topology optimization.
 - [**Neuroevolution Graph Neural Network**](https://github.com/Tahernezhad/Neuroevolution-Graph-Neural-Network) — Neuroevolutionary framework combining GNNs with genetic algorithms for structural design.
-- [**Continuous Control Workbench**](https://github.com/Tahernezhad/Continuous-Control-Workbench) — PyTorch implementations of PPO, SAC, and TD3.
+- [**Continuous Control Workbench**](https://github.com/Tahernezhad/Continuous-Control-Workbench) — PyTorch implementations of PPO, SAC, and TD3 for RL with continuous action.
 - [**Deep Q‑Learning Stock Trading**](https://github.com/Tahernezhad/Deep-Q-Learning-Stock-Trading) — DQN trading agent with a custom Gymnasium environment.
 - [**UK Regional Insights**](https://github.com/Tahernezhad/UK-Regional-Insights) — Geospatial analytics on 26 years of UK economic and deprivation data.
 - [**My LLM Learning Journey**](https://github.com/Tahernezhad/My-LLM-Learning-Journey) — Portfolio of Large Language Model engineering projects.
