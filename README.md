@@ -1,9 +1,10 @@
 ## Farajollah (Fred) Tahernezhad-Javazm, PhD
 
-AI Postdoctoral Researcher @ [University of York](https://www.york.ac.uk/), working on the [RIED](https://riedesign.org/) project.
+AI/ML researcher and engineer applying deep learning, reinforcement learning, and optimization to real-world problems.
 
-- **Current project:** bio‑inspired generative design with Graph Neural Networks (GNNs), Reinforcement Learning (RL), and Cartesian Genetic Programming (CGP).
-- **Core skills:** data analytics, time‑series analysis, deep and reinforcement learning, and multi/many‑objective optimization.
+Currently a Postdoctoral Researcher specializing in graph neural networks, neuroevolution, and multi-objective optimization, with a strong engineering background in building end-to-end ML systems.
+
+- **Core expertise:** deep & reinforcement learning · graph neural networks · time-series analysis · multi/many-objective optimization · LLM engineering
 - **Reach me:** [tahernezhad.jv@gmail.com](mailto:tahernezhad.jv@gmail.com)
 
 <p><a href="https://www.linkedin.com/in/tahernezhad/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://orcid.org/0000-0002-5073-9802" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID"/></a> <a href="mailto:tahernezhad.jv@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a></p>
