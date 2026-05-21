@@ -1,8 +1,6 @@
 ## Farajollah (Fred) Tahernezhad-Javazm, PhD
 
-AI/ML researcher and engineer applying deep learning, reinforcement learning, and optimization to real-world problems.
-
-Currently a Postdoctoral Researcher specializing in graph neural networks, neuroevolution, and multi-objective optimization, with a strong engineering background in building end-to-end ML systems.
+AI/ML researcher with a strong engineering background in building end-to-end ML systems to solve real-world problems.
 
 - **Core expertise:** deep & reinforcement learning · graph neural networks · time-series analysis · multi/many-objective optimization · LLM engineering
 - **Reach me:** [tahernezhad.jv@gmail.com](mailto:tahernezhad.jv@gmail.com)
