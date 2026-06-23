@@ -9,7 +9,8 @@ AI/ML researcher with a strong engineering background in building end-to-end ML 
 
 ### Featured projects
 - [**Cartesian Genetic Programming for Truss Optimization**](https://github.com/Tahernezhad/Cartesian-Genetic-Programming-for-Truss-Optimization) — CGP for 2D structural topology optimization.
-- [**Neuroevolution Graph Neural Network**](https://github.com/Tahernezhad/Neuroevolution-Graph-Neural-Network) — Neuroevolutionary framework combining GNNs with genetic algorithms for structural design.
+- [**Learning to Grow**] (https://github.com/Tahernezhad/Learning-to-Grow) — Gradient-based framework pairing GNNs with a differentiable equilibrium solver for engineering design.
+.
 - [**Continuous Control Workbench**](https://github.com/Tahernezhad/Continuous-Control-Workbench) — PyTorch implementations of PPO, SAC, and TD3 for RL with continuous action.
 - [**Deep Q‑Learning Stock Trading**](https://github.com/Tahernezhad/Deep-Q-Learning-Stock-Trading) — DQN trading agent with a custom Gymnasium environment.
 - [**UK Regional Insights**](https://github.com/Tahernezhad/UK-Regional-Insights) — Geospatial analytics on 26 years of UK economic and deprivation data.
