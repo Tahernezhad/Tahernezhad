@@ -13,7 +13,7 @@ AI/ML researcher with a strong engineering background in building end-to-end ML 
 - [**Continuous Control Workbench**](https://github.com/Tahernezhad/Continuous-Control-Workbench) — PyTorch implementations of PPO, SAC, and TD3 for RL with continuous action.
 - [**Deep Q‑Learning Stock Trading**](https://github.com/Tahernezhad/Deep-Q-Learning-Stock-Trading) — DQN trading agent with a custom Gymnasium environment.
 - [**UK Regional Insights**](https://github.com/Tahernezhad/UK-Regional-Insights) — Geospatial analytics on 26 years of UK economic and deprivation data.
-- [**Databricks Medallion Anomaly Detection**](https://github.com/Tahernezhad/Databricks-Medallion-Anomaly-Detection) — Production-style Databricks data pipeline plus unsupervised anomaly detection for micromobility fleet safety.
+- [**Databricks Medallion Anomaly Detection**](https://github.com/Tahernezhad/Databricks-Medallion-Anomaly-Detection) — Production-style Databricks data pipeline for micromobility fleet safety.
 
 ### Languages and tools
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,matlab,cpp,c,bash,linux,git,docker,postgres,mysql,sqlite)](https://skillicons.dev)
