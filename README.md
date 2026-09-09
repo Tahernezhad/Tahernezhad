@@ -7,13 +7,5 @@ AI/ML researcher with a strong engineering background in building end-to-end ML 
 
 <p><a href="https://www.linkedin.com/in/tahernezhad/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://orcid.org/0000-0002-5073-9802" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID"/></a> <a href="mailto:tahernezhad.jv@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a></p>
 
-### Featured projects
-- [**Cartesian Genetic Programming for Truss Optimization**](https://github.com/Tahernezhad/Cartesian-Genetic-Programming-for-Truss-Optimization) — CGP for 2D structural topology optimization.
-- [**Learning to Grow**](https://github.com/Tahernezhad/Learning-to-Grow) — Gradient-based framework pairing GNNs with a differentiable equilibrium solver for engineering design.
-- [**Continuous Control Workbench**](https://github.com/Tahernezhad/Continuous-Control-Workbench) — PyTorch implementations of PPO, SAC, and TD3 for RL with continuous action.
-- [**Deep Q‑Learning Stock Trading**](https://github.com/Tahernezhad/Deep-Q-Learning-Stock-Trading) — DQN trading agent with a custom Gymnasium environment.
-- [**UK Regional Insights**](https://github.com/Tahernezhad/UK-Regional-Insights) — Geospatial analytics on 26 years of UK economic and deprivation data.
-- [**Databricks Medallion Anomaly Detection**](https://github.com/Tahernezhad/Databricks-Medallion-Anomaly-Detection) — Production-style Databricks data pipeline for micromobility fleet safety.
-
 ### Languages and tools
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,matlab,cpp,c,bash,linux,git,docker,postgres,mysql,sqlite)](https://skillicons.dev)
